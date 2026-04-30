@@ -69,7 +69,7 @@ I'm a student from Austria with a focus on Vibe-Development, self-hosted infrast
 <br />
 
 <img height="180em" src="http://80.122.158.25:47829/stats.svg" alt="MomoLuck's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomoLuck&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff&card_width=350" alt="Top Languages" />
+<img height="180em" src="http://80.122.158.25:47829/top-langs.svg" alt="Top Languages" />
 
 </div>
 
