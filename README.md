@@ -68,7 +68,7 @@ I'm a student from Austria with a focus on Vibe-Development, self-hosted infrast
 
 <br />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MomoLuck&show_icons=true&theme=tokyonight&commit_year=2026&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=a855f7&text_color=ffffff&card_width=350" alt="MomoLuck's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MomoLuck&show_icons=true&theme=tokyonight&commits_year=2026&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=a855f7&text_color=ffffff&card_width=350" alt="MomoLuck's GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomoLuck&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff&card_width=350" alt="Top Languages" />
 
 </div>
